@@ -1,6 +1,3 @@
-Вот цельный связный **Markdown-файл** (`README.md`), который можно использовать на **GitHub**.  
-
-```markdown
 # Erston vs. Python: A Comprehensive Comparison  
 
 ## Introduction  
@@ -201,6 +198,3 @@ def show_document_details():
 
 📖 [Cleverence Developer Documentation](https://cleverence.com/)  
 🛠 [Python Official Docs](https://docs.python.org/3/)  
-```
-
-Этот **README.md** можно сразу использовать на **GitHub**. Он дает связное, структурированное и удобочитаемое описание сравнений **Erston vs. Python**. 🚀
